@@ -14,3 +14,7 @@ Lightweight font icons
 Integrated with FontAwesome, ElegantFont and ET-LineFont
 Bootstrap components compatible
 Well and commented code
+Images credits:
+
+www.unsplash.com
+www.pexels.com
